@@ -1,0 +1,24 @@
+{
+  "name": "pouchdb-fauxton",
+  "version": "0.1.0",
+  "minimum_chrome_version": "10.0",
+  "devtools_page": "devtools.html",
+  "background": {
+    "scripts": [
+      "generated/postmessagerpc.js",
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "tabs",
+    "http://*/",
+    "https://*/"
+  ],
+  "web_accessible_resources": [
+    "generated/eval.js"
+  ],
+  "manifest_version": 2,
+  "icons": {
+    "128": "icon.png"
+  }
+}
