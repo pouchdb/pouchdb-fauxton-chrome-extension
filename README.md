@@ -7,6 +7,13 @@ that's the default anyway).
 
 ![pouchdb-fauxton-chrome-extension in action](http://s30.postimg.org/l2nh5v1up/chrome_donegd.png)
 
+Demo
+----
+
+http://marten-de-vries.nl/files/pouchdb-fauxton.crx (download it as a
+file first, then drag & drop it onto the chrome://extensions page of
+Chrome/Chromium.)
+
 Internals
 ---------
 
