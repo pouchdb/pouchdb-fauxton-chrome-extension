@@ -5,6 +5,8 @@ A chrome extension that allows you to view all PouchDB databases on the
 current web page. IndexedDB backed databases are supported only (but
 that's the default anyway).
 
+![pouchdb-fauxton-chrome-extension in action](http://s30.postimg.org/l2nh5v1up/chrome_donegd.png)
+
 Internals
 ---------
 
