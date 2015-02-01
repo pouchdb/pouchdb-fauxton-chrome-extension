@@ -10,9 +10,7 @@ that's the default anyway).
 Demo
 ----
 
-http://marten-de-vries.nl/files/pouchdb-fauxton.crx (download it as a
-file first, then drag & drop it onto the chrome://extensions page of
-Chrome/Chromium.)
+[Available in the Chrome Web Store](https://chrome.google.com/webstore/detail/pouchdb-fauxton/hbhhpaojmpfimakffndmpmpndcmonkfa)
 
 Internals
 ---------
@@ -40,5 +38,5 @@ Then run:
 
 	./build-generated-files.sh
 
-The result is a complete unpacked extension you can load (or pack to a
-.crx file) using Chrome/Chromium.
+The result is a complete unpacked extension you can load using
+Chrome/Chromium.
