@@ -10,7 +10,7 @@ that's the default anyway).
 Demo
 ----
 
-[Available in the Chrome Web Store](https://chrome.google.com/webstore/detail/pouchdb-fauxton/hbhhpaojmpfimakffndmpmpndcmonkfa)
+[Not available anymore in the Chrome Web Store](https://chrome.google.com/webstore/detail/pouchdb-fauxton/hbhhpaojmpfimakffndmpmpndcmonkfa)
 
 Internals
 ---------
